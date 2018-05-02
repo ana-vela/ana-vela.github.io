@@ -9,6 +9,12 @@ body, html {
   color: grey;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+
+}
+
 h1 {
   font-size: 40px;
   text-align: right;
@@ -23,11 +29,6 @@ h1 {
 hr {
 height: 2px;
 background-color: grey;
-}
-
-.main-header {
-  justify-content: space-between;
-  display: flex;
 }
 
 .header-info {
