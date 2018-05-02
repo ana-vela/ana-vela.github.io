@@ -71,8 +71,13 @@ section {
   .project-item {
     justify-content: space-between;
   }
+
   header {
     flex-direction: column;
+    text-align: center;
+  }
+  
+  .header-title h1, .header-title h2 {
     text-align: center;
   }
 }
