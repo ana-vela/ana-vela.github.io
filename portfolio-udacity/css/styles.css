@@ -80,9 +80,9 @@ section {
   }
 }
 
-@media screen and (min-width: 1020px) {
+@media screen and (min-width: 980px) {
   .container, header, .projects {
-    width: 1020px;
+    width: 980px;
     margin-left: auto;
     margin-right: auto;
   }
